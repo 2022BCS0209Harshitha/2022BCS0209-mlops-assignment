@@ -27,7 +27,7 @@ mlflow.set_experiment("2022BCS0209_experiment")
 
 with mlflow.start_run():
 
-    model = RandomForestClassifier(n_estimators=100)
+    model = RandomForestClassifier(n_estimators=200)
     model.fit(X_train, y_train)
 
     preds = model.predict(X_test)
