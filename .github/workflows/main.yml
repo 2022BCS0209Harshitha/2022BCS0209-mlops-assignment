@@ -1,0 +1,22 @@
+name: ML Pipeline
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Install DVC
+      run: pip install dvc[s3]
+
+    - name: Pull data
+      run: dvc pull
+
+    - name: Train model
+      run: python src/train.py

@@ -1,0 +1,151 @@
+CountryID,CountryName,Event,No_of_Medals,Gold,Silver,Bronze
+USA,United States,Athletics,3,1,0,2
+USA,United States,Swimming,1,0,0,1
+USA,United States,Gymnastics,4,0,0,4
+USA,United States,Cycling,3,1,1,1
+USA,United States,Judo,4,1,2,1
+USA,United States,Rowing,2,1,0,1
+USA,United States,Shooting,0,0,0,0
+USA,United States,Wrestling,0,0,0,0
+USA,United States,Boxing,2,1,0,1
+USA,United States,Tennis,1,0,1,0
+CHN,China,Athletics,2,1,1,0
+CHN,China,Swimming,2,2,0,0
+CHN,China,Gymnastics,0,0,0,0
+CHN,China,Cycling,2,0,0,2
+CHN,China,Judo,2,0,1,1
+CHN,China,Rowing,2,0,1,1
+CHN,China,Shooting,3,0,1,2
+CHN,China,Wrestling,2,0,0,2
+CHN,China,Boxing,2,0,1,1
+CHN,China,Tennis,0,0,0,0
+JPN,Japan,Athletics,2,1,1,0
+JPN,Japan,Swimming,0,0,0,0
+JPN,Japan,Gymnastics,1,0,1,0
+JPN,Japan,Cycling,2,1,0,1
+JPN,Japan,Judo,1,0,1,0
+JPN,Japan,Rowing,1,0,0,1
+JPN,Japan,Shooting,1,0,0,1
+JPN,Japan,Wrestling,0,0,0,0
+JPN,Japan,Boxing,4,0,2,2
+JPN,Japan,Tennis,1,0,1,0
+AUS,Australia,Athletics,0,0,0,0
+AUS,Australia,Swimming,0,0,0,0
+AUS,Australia,Gymnastics,0,0,0,0
+AUS,Australia,Cycling,1,1,0,0
+AUS,Australia,Judo,1,0,0,1
+AUS,Australia,Rowing,2,1,1,0
+AUS,Australia,Shooting,1,0,0,1
+AUS,Australia,Wrestling,0,0,0,0
+AUS,Australia,Boxing,1,1,0,0
+AUS,Australia,Tennis,0,0,0,0
+FRA,France,Athletics,1,0,1,0
+FRA,France,Swimming,0,0,0,0
+FRA,France,Gymnastics,1,0,1,0
+FRA,France,Cycling,0,0,0,0
+FRA,France,Judo,1,1,0,0
+FRA,France,Rowing,1,1,0,0
+FRA,France,Shooting,3,1,2,0
+FRA,France,Wrestling,2,2,0,0
+FRA,France,Boxing,4,0,0,4
+FRA,France,Tennis,0,0,0,0
+GBR,Great Britain,Athletics,0,0,0,0
+GBR,Great Britain,Swimming,2,1,0,1
+GBR,Great Britain,Gymnastics,1,0,1,0
+GBR,Great Britain,Cycling,0,0,0,0
+GBR,Great Britain,Judo,0,0,0,0
+GBR,Great Britain,Rowing,3,0,1,2
+GBR,Great Britain,Shooting,1,0,0,1
+GBR,Great Britain,Wrestling,0,0,0,0
+GBR,Great Britain,Boxing,0,0,0,0
+GBR,Great Britain,Tennis,1,1,0,0
+GER,Germany,Athletics,1,0,1,0
+GER,Germany,Swimming,4,1,0,3
+GER,Germany,Gymnastics,0,0,0,0
+GER,Germany,Cycling,0,0,0,0
+GER,Germany,Judo,2,2,0,0
+GER,Germany,Rowing,0,0,0,0
+GER,Germany,Shooting,2,0,0,2
+GER,Germany,Wrestling,0,0,0,0
+GER,Germany,Boxing,0,0,0,0
+GER,Germany,Tennis,0,0,0,0
+ITA,Italy,Athletics,0,0,0,0
+ITA,Italy,Swimming,2,0,2,0
+ITA,Italy,Gymnastics,3,0,2,1
+ITA,Italy,Cycling,1,1,0,0
+ITA,Italy,Judo,0,0,0,0
+ITA,Italy,Rowing,0,0,0,0
+ITA,Italy,Shooting,2,0,2,0
+ITA,Italy,Wrestling,0,0,0,0
+ITA,Italy,Boxing,0,0,0,0
+ITA,Italy,Tennis,1,0,1,0
+CAN,Canada,Athletics,1,1,0,0
+CAN,Canada,Swimming,2,1,1,0
+CAN,Canada,Gymnastics,0,0,0,0
+CAN,Canada,Cycling,0,0,0,0
+CAN,Canada,Judo,0,0,0,0
+CAN,Canada,Rowing,2,1,0,1
+CAN,Canada,Shooting,0,0,0,0
+CAN,Canada,Wrestling,2,1,0,1
+CAN,Canada,Boxing,0,0,0,0
+CAN,Canada,Tennis,0,0,0,0
+KOR,South Korea,Athletics,1,0,1,0
+KOR,South Korea,Swimming,1,1,0,0
+KOR,South Korea,Gymnastics,0,0,0,0
+KOR,South Korea,Cycling,0,0,0,0
+KOR,South Korea,Judo,0,0,0,0
+KOR,South Korea,Rowing,0,0,0,0
+KOR,South Korea,Shooting,2,1,0,1
+KOR,South Korea,Wrestling,1,0,0,1
+KOR,South Korea,Boxing,1,0,1,0
+KOR,South Korea,Tennis,0,0,0,0
+NED,Netherlands,Athletics,1,0,0,1
+NED,Netherlands,Swimming,2,1,1,0
+NED,Netherlands,Gymnastics,2,1,1,0
+NED,Netherlands,Cycling,0,0,0,0
+NED,Netherlands,Judo,2,0,0,2
+NED,Netherlands,Rowing,0,0,0,0
+NED,Netherlands,Shooting,0,0,0,0
+NED,Netherlands,Wrestling,1,0,0,1
+NED,Netherlands,Boxing,1,0,0,1
+NED,Netherlands,Tennis,1,1,0,0
+BRA,Brazil,Athletics,0,0,0,0
+BRA,Brazil,Swimming,1,0,0,1
+BRA,Brazil,Gymnastics,0,0,0,0
+BRA,Brazil,Cycling,0,0,0,0
+BRA,Brazil,Judo,0,0,0,0
+BRA,Brazil,Rowing,0,0,0,0
+BRA,Brazil,Shooting,1,0,0,1
+BRA,Brazil,Wrestling,2,0,0,2
+BRA,Brazil,Boxing,1,0,1,0
+BRA,Brazil,Tennis,0,0,0,0
+ESP,Spain,Athletics,1,0,0,1
+ESP,Spain,Swimming,1,1,0,0
+ESP,Spain,Gymnastics,1,0,0,1
+ESP,Spain,Cycling,1,1,0,0
+ESP,Spain,Judo,0,0,0,0
+ESP,Spain,Rowing,2,1,1,0
+ESP,Spain,Shooting,0,0,0,0
+ESP,Spain,Wrestling,0,0,0,0
+ESP,Spain,Boxing,1,0,1,0
+ESP,Spain,Tennis,0,0,0,0
+IND,India,Athletics,0,0,0,0
+IND,India,Swimming,0,0,0,0
+IND,India,Gymnastics,1,0,1,0
+IND,India,Cycling,3,1,0,2
+IND,India,Judo,3,1,1,1
+IND,India,Rowing,2,0,1,1
+IND,India,Shooting,0,0,0,0
+IND,India,Wrestling,2,0,1,1
+IND,India,Boxing,2,1,1,0
+IND,India,Tennis,1,0,0,1
+SWE,Sweden,Athletics,0,0,0,0
+SWE,Sweden,Swimming,0,0,0,0
+SWE,Sweden,Gymnastics,0,0,0,0
+SWE,Sweden,Cycling,1,1,0,0
+SWE,Sweden,Judo,0,0,0,0
+SWE,Sweden,Rowing,1,1,0,0
+SWE,Sweden,Shooting,0,0,0,0
+SWE,Sweden,Wrestling,1,0,0,1
+SWE,Sweden,Boxing,1,0,0,1
+SWE,Sweden,Tennis,2,0,1,1
